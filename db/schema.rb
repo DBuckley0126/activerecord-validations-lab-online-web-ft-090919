@@ -30,3 +30,5 @@ ActiveRecord::Schema.define(version: 20151202061742) do
   end
 
 end
+
+Lorem ipsum dolor sit amet, co...m dolor sit amet, consectetur adipiscing...
